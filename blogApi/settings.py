@@ -26,7 +26,7 @@ SECRET_KEY = config('DJ_SECRET')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '10.182.0.2', '34.125.210.46']
 
 
 # Application definition
